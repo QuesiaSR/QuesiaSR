@@ -12,7 +12,7 @@
     - [OldDebug](https://github.com/QuesiaSR/olddebug), a tiny Fabric mod that reverts the F3 keybind changes in modern versions of the game.
     - [SyncedStructures](https://github.com/QuesiaSR/syncedstructures), a Fabric mod that makes it so that every structure can be generated in every biome.
     - [PogWorld](https://github.com/QuesiaSR/pogworld), a Fabric mod that alters world and structure generation in favor of a Minecraft speedrun.
-- 🕴️ I have worked with: [Horizon](https://www.youtube.com/@The_Horizon) (I made the plugin for [this video](https://www.youtube.com/watch?v=kHWttkoiLws)
+- 🕴️ I have worked with: [Horizon](https://www.youtube.com/@The_Horizon) (I made the plugin for [this video](https://www.youtube.com/watch?v=kHWttkoiLws))
 - 📫 How to reach me: join [my Discord server](https://discord.gg/s9m8gf6pju)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am 14 and taught myself how to code when I was 10. Also cats meow.
