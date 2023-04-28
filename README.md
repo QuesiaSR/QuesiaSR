@@ -2,8 +2,9 @@
 
 - 🔭 Some of my projects include:
     - [peepoPractice](https://github.com/QuesiaSR/peepoPractice), a Fabric mod for practicing Minecraft speedruns.
-    - [Aux Battles](https://github.com/QuesiaSR/aux-battles), a website that lets you play Aux Battles (from Pat: CC) against your friends.
+    - [AreEssGee](https://github.com/QuesiaSR/AreEssGee), a Fabric mod for generating structures artificially.
     - [TwitchEmotes](https://github.com/QuesiaSR/TwitchEmotes), a Fabric mod that does all sorts of things with Twitch chat and emotes.
+    - [Inenga](https://github.com/QuesiaSR/Inenga), a Fabric mod that generates all of the dimensions at the start of world generation.
     - [Tautuhi](https://github.com/QuesiaSR/Tautuhi), a simple cape mod for Fabric.
     - [BetterAASaving](https://github.com/QuesiaSR/BetterAASaving), a tiny Fabric mod that saves the player data whenever an advancement criterion is met.
     - [AntiResourceReload](https://github.com/QuesiaSR/antiresourcereload), a Fabric mod that caches server data so that your worlds start generating faster.
