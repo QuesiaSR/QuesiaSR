@@ -4,6 +4,7 @@
     - [peepoPractice](https://github.com/QuesiaSR/peepoPractice), a Fabric mod for practicing Minecraft speedruns.
     - [AreEssGee](https://github.com/QuesiaSR/AreEssGee), a Fabric mod for generating structures artificially.
     - [TwitchEmotes](https://github.com/QuesiaSR/TwitchEmotes), a Fabric mod that does all sorts of things with Twitch chat and emotes.
+    - [RunBenchmark](https://github.com/faluhub/runbenchmark), a Fabric mod that adds a global in-game tracker that keeps track of the average times of several splits for speedrunning.
     - [Inenga](https://github.com/QuesiaSR/Inenga), a Fabric mod that generates all of the dimensions at the start of world generation.
     - [Tautuhi](https://github.com/QuesiaSR/Tautuhi), a simple cape mod for Fabric.
     - [BetterAASaving](https://github.com/QuesiaSR/BetterAASaving), a tiny Fabric mod that saves the player data whenever an advancement criterion is met.
