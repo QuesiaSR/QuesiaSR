@@ -23,5 +23,4 @@
   - [Horizon](https://www.youtube.com/@The_Horizon) (I made the plugin for [this video](https://www.youtube.com/watch?v=kHWttkoiLws))
   - [Yahiamice](https://twitch.tv/yahiamice) (I've made several commissioned mods for them)
 - 📫 How to reach me: join [my Discord server](https://discord.gg/s9m8gf6pju)
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I am 15 (birthday: July 14) and taught myself how to code when I was 11. Also cats meow 😺.
+- ⚡ Fun fact: I am 16 and taught myself how to code when I was 11.
